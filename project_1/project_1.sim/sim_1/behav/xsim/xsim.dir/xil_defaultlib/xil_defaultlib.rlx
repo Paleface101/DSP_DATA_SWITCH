@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sim_1/new/beh_mod.sv,1633624392,systemVerilog,,C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sim_1/new/test.sv,,beh_mod,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sim_1/new/tb.sv,1633032239,systemVerilog,,,,tb,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sim_1/new/test.sv,1633701671,systemVerilog,,,,test,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/AXIS_INPUT_SWITCH_v1_0.v,1633550531,verilog,,C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/axis_mux.v,,AXIS_INPUT_SWITCH_v1_0,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/DSP_DATA_SWITCH.v,1632939308,verilog,,,,DSP_DATA_SWITCH,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/FSM_SWITCH.v,1633548012,verilog,,,,FSM_SWITCH,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/FSM_SWITCH_2.v,1633702983,verilog,,,,FSM_SWITCH_2,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/SWITCH.v,1633021423,verilog,,,,SWITCH,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/SWITCH_FSM.v,1632912050,verilog,,,,SWITCH_FSM,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/axis_mux.v,1633549473,verilog,,C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/sync_bits.v,,axis_mux,,uvm,,,,,,
+C:/GitProject/DSP_DATA_SWITCH/project_1/project_1.srcs/sources_1/new/sync_bits.v,1633549419,verilog,,,,sync_bits,,uvm,,,,,,

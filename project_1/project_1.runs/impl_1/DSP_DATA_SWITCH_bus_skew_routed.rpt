@@ -1,0 +1,15 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sun Oct 10 16:26:44 2021
+| Host         : LAPTOP-DQ14LCHN running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file DSP_DATA_SWITCH_bus_skew_routed.rpt -pb DSP_DATA_SWITCH_bus_skew_routed.pb -rpx DSP_DATA_SWITCH_bus_skew_routed.rpx
+| Design       : DSP_DATA_SWITCH
+| Device       : 7vx485t-ffg1157
+| Speed File   : -1  PRODUCTION 1.12 2014-09-11
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
